@@ -1,1 +1,1 @@
-# ExchangeRate
+# DogGenerator
